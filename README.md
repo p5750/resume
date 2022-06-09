@@ -41,8 +41,8 @@ TODO
 #### eラーニングサービスの課金関連機能開発（2021/03 〜 現在）
 
 - Ruby on Railsを用いたAPI、管理画面の実装
-    - 参画当時Ruby 2.6、現在Ruby 2.7
-    - 参画当時Rails 5.2、現在Rails 6.0
+  - 参画当時Ruby 2.6、現在Ruby 2.7
+  - 参画当時Rails 5.2、現在Rails 6.0
 - RSpecを用いた自動テストの実装
 - Stripe APIを用いた課金関連機能の実装・改修
 - iOSのサブスクリプション課金の改修
@@ -62,7 +62,7 @@ TODO
 - カスタマイズされたFuelPHPを用いたAPI、管理画面の実装
 - 2020年にPHP5.5→7.3のアップグレードを実施
 - 2020年にオンプレからAWSへの移行を実施
-    - EC2、S3、Aurora、ElastiCache
+  - EC2、S3、Aurora、ElastiCache
 - TypeScript、Reactを用いたマスタデータ管理ツールの実装(VBAからの移行)
 - クライアントアプリ（Unity）のファイルIO関連機能の実装
 - 自動化ツール整備などによる運用効率化に注力
