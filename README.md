@@ -27,7 +27,49 @@
 
 ## スキル
 
-TODO
+### 言語
+
+- PHP
+  - 実務経験3年
+  - 個人開発4年以上
+- TypeScript
+  - 実務経験2年以上
+  - 個人開発3年以上
+- Ruby
+  - 実務経験1年以上
+- C#
+  - 実務経験1年未満
+- Go
+  - 個人開発で多少
+
+### フレームワーク
+
+- FuelPHP
+- Laravel
+- Vue / Nuxt
+- React / Next
+- Rails
+
+### データベース
+
+- MySQL
+- Aurora for MySQL
+
+### その他
+
+- AWS
+  - EC2
+  - ElastiCache
+  - Amazon Aurora
+  - S3
+  - Lambda
+  - CloudWatch
+  - Athena
+  - CodePipeline
+  - CodeBuild
+- Docker Compose
+- Stripe
+- iOS In-App Purchase
 
 ## 強み
 
